@@ -1,0 +1,34 @@
+1.Which among the following is a source of Atomic Energy ?
+[A] Iron
+[B] Uranium
+[C] Silver
+[D] Platinum
+end
+
+2.When a tubelight breaks, a cracking sound is produced because ____?
+[A] Pressure inside the lamp is less than atmospheric pressure
+[B] Pressure inside the lamp is more than atmospheric pressure
+[C] The lamp is filled with reactive gases
+[D] The lamp is filled with mercury vapour
+end
+
+3.Which among the following is true about Total Internal Reflection?
+[A] A ray passing from rarer to denser medium and not able to pass to denser medium at an angle greater than critical angle
+[B] A ray passing from denser to rarer medium and not able to pass to rarer medium at an angle greater than critical angle
+[C] A ray passing from either denser to rarer medium or rarer to denser medium and not able to pass any medium at an angle smaller than critical angle
+[D] None of the above
+end
+
+4.Two Flat mirrors are placed at an angle of 60° from each other. How many images will be formed of a Candle placed in between them?
+[A] 3
+[B] 4
+[C] 6
+[D] 5
+end
+
+5.Edwin Howard Armstrong was an inventor of which of the following technologies?
+[A] Television
+[B] FM Radio
+[C] Compact Discs
+[D] Broadband
+end
